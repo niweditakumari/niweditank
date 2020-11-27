@@ -1,3 +1,3 @@
 
-hy iam in master branch
+hi    i want to merge to master branch from my branch.
 
